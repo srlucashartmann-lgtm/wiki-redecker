@@ -1,0 +1,27 @@
+{
+  "dados": [
+    {
+      "titulo": "Secretário de Estado",
+      "entidade": "Secretaria de Minas e Energia",
+      "entidadeUF": null,
+      "entidadePais": null,
+      "anoInicio": 2015,
+      "anoFim": 2015
+    },
+    {
+      "titulo": "Assessor Especial",
+      "entidade": "Gabinete do Governo do Estado",
+      "entidadeUF": null,
+      "entidadePais": null,
+      "anoInicio": 2007,
+      "anoFim": 2007
+    }
+  ],
+  "_metadados": {
+    "deputado_id": 204404,
+    "deputado_nome": "Lucas Redecker",
+    "legislatura": 57,
+    "data_extracao": "2026-03-03T21:53:25.225699",
+    "fonte": "API Dados Abertos Câmara - dadosabertos.camara.leg.br"
+  }
+}

@@ -1,0 +1,8 @@
+# Discurso - Lucas Redecker
+**Data:** 2020-12-14T21:32
+**Evento:** Posicionamento do orador contrário à aprovação do Requerimento de Destaque nº 11, apresentado ao Projeto de Lei Complementar nº 146, de 2019, sobre a instituição do marco legal das startups e do empreendedorismo inovador; e a alteração das Leis nºs 8.212, de 1991; 7.713, de 1988; 6.404, de 1976; 11.196, de 2005; e da Lei Complementar nº 123, de 2006.
+
+---
+O SR. LUCAS REDECKER (PSDB - RS. Pela ordem. Sem revisão do orador.) - Presidente, quero só deixar algo registrado em relação ao Destaque nº 11.
+É interessante ver que alguns partidos de esquerda encaminham aqui sua postura contra a inclusão do pagamento da remuneração complementar para servidores, funcionários de startups, para que possam ser remunerados com percentuais societários. Partidos que defendem aqui o socialismo, a igualdade plena, são contra a possibilidade de o servidor, o trabalhador, o funcionário virar sócio. Deveria ser o contrário: os partidos de esquerda é que deveriam estar propondo isso aqui. Ou eles querem que o trabalhador permaneça trabalhador eternamente, ou eles querem que o empregado permaneça empregado eternamente.
+O Destaque nº 11 a essa parte do texto, do relatório do Deputado Vinicius Poit, deixa isso muito claro. O que nós queremos é inclusão, é igualdade, é que o empregado possa ser sócio, que o empregado possa participar, é que ele tenha o direito de empreender, crescer. Essa é a grande realidade que estamos discutindo aqui, diferente da realidade que a Esquerda representa neste momento. Eles não querem incluir uma remuneração para os servidores, os empregados, para que eles consigam virar sócios, crescer na vida e empreender, querem que eles permaneçam empregados.

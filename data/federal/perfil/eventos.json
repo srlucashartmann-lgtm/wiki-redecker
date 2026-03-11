@@ -1,0 +1,131 @@
+{
+  "dados": [
+    {
+      "id": 81115,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/81115",
+      "dataHoraInicio": "2026-02-26T10:00",
+      "dataHoraFim": "2026-02-26T13:46",
+      "situacao": "Encerrada",
+      "descricaoTipo": "Sessão Deliberativa",
+      "descricao": "Sessão Deliberativa Extraordinária Semipresencial (AM nº 123/2020)",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 180,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+          "sigla": "PLEN",
+          "nome": "Plenário",
+          "apelido": "Plenário",
+          "codTipoOrgao": 26,
+          "tipoOrgao": "Plenário Virtual",
+          "nomePublicacao": "Plenário",
+          "nomeResumido": "Plenário"
+        }
+      ],
+      "localCamara": {
+        "nome": "Plenário da Câmara dos Deputados",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=NMGy1bn5bCY"
+    },
+    {
+      "id": 81154,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/81154",
+      "dataHoraInicio": "2026-03-02T18:00",
+      "dataHoraFim": "2026-03-03T00:35",
+      "situacao": "Encerrada",
+      "descricaoTipo": "Sessão Deliberativa",
+      "descricao": "Sessão Deliberativa Extraordinária Semipresencial (AM nº 123/2020)",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 180,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+          "sigla": "PLEN",
+          "nome": "Plenário",
+          "apelido": "Plenário",
+          "codTipoOrgao": 26,
+          "tipoOrgao": "Plenário Virtual",
+          "nomePublicacao": "Plenário",
+          "nomeResumido": "Plenário"
+        }
+      ],
+      "localCamara": {
+        "nome": "Plenário da Câmara dos Deputados",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=eNphDhpnWJc"
+    },
+    {
+      "id": 81178,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/81178",
+      "dataHoraInicio": "2026-03-03T13:55",
+      "dataHoraFim": null,
+      "situacao": "Em Andamento",
+      "descricaoTipo": "Sessão Deliberativa",
+      "descricao": "Sessão Deliberativa Extraordinária Presencial (AM nº 123/2020)",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 180,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+          "sigla": "PLEN",
+          "nome": "Plenário",
+          "apelido": "Plenário",
+          "codTipoOrgao": 26,
+          "tipoOrgao": "Plenário Virtual",
+          "nomePublicacao": "Plenário",
+          "nomeResumido": "Plenário"
+        }
+      ],
+      "localCamara": {
+        "nome": "Plenário da Câmara dos Deputados",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=QLBPUWgIhyA"
+    },
+    {
+      "id": 81168,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/eventos/81168",
+      "dataHoraInicio": "2026-03-03T14:30",
+      "dataHoraFim": "2026-03-03T16:57",
+      "situacao": "Encerrada (Final)",
+      "descricaoTipo": "Reunião Deliberativa",
+      "descricao": "Discussão e votação de propostas legislativas",
+      "localExterno": null,
+      "orgaos": [
+        {
+          "id": 2018,
+          "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018",
+          "sigla": "CREDN",
+          "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+          "apelido": "Relações Exteriores e de Defesa Nacional",
+          "codTipoOrgao": 2,
+          "tipoOrgao": "Comissão Permanente",
+          "nomePublicacao": "Comissão de Relações Exteriores e de Defesa Nacional",
+          "nomeResumido": "Relações Exteriores"
+        }
+      ],
+      "localCamara": {
+        "nome": "Anexo II, Plenário 03",
+        "predio": null,
+        "sala": null,
+        "andar": null
+      },
+      "urlRegistro": "https://www.youtube.com/watch?v=JXVSScJiaj4"
+    }
+  ],
+  "_metadados": {
+    "deputado_id": 204404,
+    "deputado_nome": "Lucas Redecker",
+    "legislatura": 57,
+    "data_extracao": "2026-03-03T22:07:28.694772",
+    "fonte": "API Dados Abertos Câmara - dadosabertos.camara.leg.br"
+  }
+}

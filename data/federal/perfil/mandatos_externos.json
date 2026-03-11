@@ -1,0 +1,20 @@
+{
+  "dados": [
+    {
+      "cargo": "Deputado(a) Estadual",
+      "siglaUf": "RS",
+      "municipio": null,
+      "anoInicio": "2011",
+      "anoFim": "2019",
+      "siglaPartidoEleicao": "PSDB",
+      "uriPartidoEleicao": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835"
+    }
+  ],
+  "_metadados": {
+    "deputado_id": 204404,
+    "deputado_nome": "Lucas Redecker",
+    "legislatura": 57,
+    "data_extracao": "2026-03-03T22:07:27.880141",
+    "fonte": "API Dados Abertos Câmara - dadosabertos.camara.leg.br"
+  }
+}

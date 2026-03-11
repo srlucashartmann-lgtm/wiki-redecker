@@ -1,0 +1,6 @@
+# Discurso - Lucas Redecker
+**Data:** 2024-05-22T21:24
+**Evento:** O Deputado, Relator do Projeto de Lei nº 4.731, de 2023,&nbsp;que isenta do Imposto sobre Produtos Industrializados (IPI) móveis e eletrodomésticos da linha branca destinados aos residentes em áreas atingidas por desastres naturais ou eventos climáticos extremos, anunciou uma emenda de redação para abarcar novas calamidades, excluindo do art. 2º, § 1º, a frase "até a data da publicação dessa lei".
+
+---
+O SR. LUCAS REDECKER (Bloco/PSDB - RS. Sem revisão do orador.) - Sr. Presidente, nós vamos apresentar uma emenda de redação para excluir do art. 2º, § 1º, a parte que diz "até a data da publicação dessa lei". Vamos fazer apenas essa exclusão  e vamos fazer o encaminhamento , para abarcar novas calamidades. É apenas essa a correção que eu gostaria de anunciar daqui, do microfone, para que o projeto saia daqui redondo. Peço desculpas. Como nós fizemos várias modificações, vão surgindo novas coisas, e nós queremos sair daqui com o projeto redondo, certinho. Então, 5 minutos, 2 minutos, alguns segundos a mais não vão fazer diferença aqui no Plenário desta Casa, mas vão fazer muita diferença na vida das pessoas, se o projeto funcionar direito.

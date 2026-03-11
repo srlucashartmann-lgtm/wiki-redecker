@@ -1,0 +1,35 @@
+# Discurso - Lucas Redecker
+**Data:** 2020-12-14T15:16
+**Evento:** Emissão de parecer ao Projeto de Lei Complementar nº 133, de 2020, a respeito da instituição de transferências obrigatórias da União para os Estados, o Distrito Federal e os Municípios, por prazo ou fato determinado; da regra de cessação contida no § 2º, art. 91, do Ato das Disposições Constitucionais Transitórias; e da alteração da Lei nº 13.885, de 2019.
+
+---
+O SR. LUCAS REDECKER (PSDB - RS. Para proferir parecer. Sem revisão do orador.) - Presidente Luis Miranda, vou direto ao voto do Relator, a respeito do Projeto de Lei Complementar nº 133, de 2020.
+"II - Voto do Relator
+Da constitucionalidade, juridicidade e técnica legislativa.
+Não se observam vícios de inconstitucionalidade, injuridicidade ou técnica legislativa no texto da proposição principal (...).
+(...)
+(...) que, direta ou indiretamente, importem ou autorizem diminuição de receita ou aumento de despesa da União, deverão estar acompanhadas de estimativas desses efeitos no exercício em que entrarem em vigor e nos dois subsequentes, detalhando a memória de cálculo respectiva e a correspondente compensação.
+Porém, como forma de viabilizar o mencionado acordo, o Congresso Nacional aprovou o PL 18/20, posteriormente sancionado e publicado na forma da Lei nº 14.085, de 2020, com a dispensa das exigências da LDO, como a apresentação de medidas compensatórias e financeiras para efeito de adequação orçamentária e financeira, introduzindo novo § 17 ao art. 114 da LDO, com o seguinte teor:
+Art.114. ...............................................................................................................................................................
+............................................................................................................................................................................
+§ 17. As disposições deste artigo ficam dispensadas nas proposições legislativas e suas emendas que visem a dar cumprimento ao acordo celebrado nos autos da Ação Direta de Inconstitucionalidade por Omissão nº 25 e homologado pelo Supremo Tribunal Federal em 20 de maio de 2020.
+Verifica-se, portanto, que o PLP 133/20 resulta de acordo que objetiva finalizar controvérsia judicial complexa e duradoura entre os entes da Federação sobre compensações decorrentes de desonerações tributárias da Lei Kandir. Nesse contexto, a proposição recebeu tratamento excepcional, sendo dispensada de cumprir os requisitos da LDO de 2020.
+Além disso, cumpre lembrar que o Congresso Nacional reconheceu a ocorrência de calamidade pública, nos termos do art. 65 da Lei Complementar nº 101, de 2000 (...). Assim, o Poder Executivo está dispensado do atingimento dos resultados fiscais no exercício financeiro de 2020.
+Do mérito.
+Antes de iniciarmos nossa análise, queremos lembrar a todos acerca das dificuldades financeiras experimentadas pelos entes subnacionais, já antes da pandemia do coronavírus, sabidamente agravadas pela calamidade pública. Nesse sentido, a proposição chega em bom momento, cabendo a este Relator reforçar sua urgência, uma vez que se prevê a entrega de R$ 4 bilhões ainda neste ano. Tais recursos serão vitais para que os entes possam garantir a prestação de serviços públicos no que aparenta ser uma segunda onda da COVID-19.
+Feitas essas considerações, passemos à análise do tema.
+Como se sabe, a Lei Kandir, ao disciplinar o ICMS, estabeleceu a hipótese de não incidência desse imposto à exportação de produtos primários e semielaborados desse tributo e, simultaneamente, determinou que a União deveria entregar uma compensação aos entes subnacionais pela perda da arrecadação correspondente. Buscava-se estimular nossas exportações, com a redução de custos ao produtor nacional e a adoção no País das práticas internacionais consideradas mais adequadas.
+Originalmente, a compensação seria devida até 2002 e as perdas de arrecadação decorrentes da Lei Kandir seriam compensadas pelo crescimento econômico advindo da medida, de acordo com a projeção inicial. A Lei Kandir, contudo, recebeu alterações para postergar a referida compensação, até que, em 2003, a Emenda Constitucional nº 42 determinou a manutenção da entrega de recursos até que lei complementar regulamentasse e disciplinasse sua cessação.
+É neste ponto que nos encontramos. O Projeto de Lei Complementar nº 133, de 2020, traduz acordo firmado em decorrência da Ação Direta de Inconstitucionalidade por Omissão nº 25, em que o STF reconheceu a omissão legislativa quanto à edição da lei complementar prevista no art. 91 do Ato das Disposições Constitucionais Transitórias. O grande mérito do projeto de lei complementar é dar fim a um desentendimento de décadas entre os entes, no qual a União entendia não haver mais compensação a ser paga, diante dos efeitos econômicos benéficos da Lei Kandir; os Estados e Municípios, por sua vez, percebiam-se lesados e chegaram a demandar, no STF, a compensação retroativa de suas perdas.
+Nesse contexto, orientamos, portanto, a aprovação dos termos definidos no Projeto de Lei Complementar nº 133, de 2020. Salientamos ainda que, no âmbito do acordo, há a previsão de repasses de R$ 3,6 bilhões, não contemplados neste projeto de lei complementar, que dependerão da aprovação da PEC 188/19, de forma a cobrir o valor total do acordo, de R$ 65,6 bilhões.
+Ante o exposto, votamos:
+a) Na Comissão de Finanças e Tributação, somos pela compatibilidade e adequação financeira e orçamentária do Projeto de Lei Complementar nº 133, de 2020, e, no mérito, por sua aprovação;
+b) Na Comissão de Constituição e Justiça e de Cidadania, somos pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei Complementar nº 133, de 2020, com a emenda de redação em anexo."
+Presidente, quer que eu leia a emenda de redação?
+O SR. PRESIDENTE (Luis Miranda. DEM - DF) - Não é necessário. Nós a divulgaremos pelo sistema.
+O SR. LUCAS REDECKER (PSDB - RS) - Está bom, Presidente.
+Gostaria de fazer só um comentário. Eu quero deixar registrado que, para nós, este é um momento histórico. Em 8 anos como Deputado Estadual no Rio Grande do Sul, debatemos por diversas vezes as compensações da Lei Kandir. Os Estados e Municípios do Brasil inteiro, principalmente aqueles com viés exportador, tinham essa dívida discutida, e nunca era homologada por esta Casa, pelo STF e também pela União. Neste momento, estamos aqui finalizando uma negociação que foi homologada pelo STF, em concordância com o Executivo e com esta Casa, já tendo sido aprovada a matéria no Senado.
+Na minha avaliação, propiciamos um resultado, para que os Estados e Municípios consigam se organizar financeiramente, até 2037, tenham condições de manter o caixa, conseguir investimentos a longo prazo, renegociar os seus problemas financeiros e prestar de maneira mais efetiva o serviço ao cidadão.
+O parecer é favorável.
+Agradeço a disponibilidade e também a indicação para ser Relator desta matéria.
+Obrigado, Presidente.

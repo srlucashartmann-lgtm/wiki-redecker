@@ -1,0 +1,972 @@
+[
+    {
+        "ano": 2025,
+        "cidade_beneficiada": "BOM PROGRESSO - RS",
+        "area_funcao": "Assistência social",
+        "subfuncao": "SERVICOS SOCIOASSISTENCIAIS",
+        "acao_orcamentaria": "219G - ESTRUTURACAO DA REDE DE SERVICOS E FORTALECIMENTO DA GESTAO DO SISTEMA UNICO DE ASSISTENCIA SOCIAL (SUAS)",
+        "plano_orcamentario": "ESTRUTURACAO DA REDE DE SERVICOS E FORTALECIMENTO DA GESTAO DO SISTEMA UNICO DE ASSISTENCIA SOCIAL (SUAS) - DESPESAS DIVERSAS",
+        "valor_empenhado": 60000.0,
+        "valor_pago": 60000.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "CERRITO - RS",
+        "area_funcao": "Saúde",
+        "subfuncao": "Atenção básica",
+        "acao_orcamentaria": "8581 - ESTRUTURACAO DA REDE DE SERVICOS DE ATENCAO PRIMARIA A SAUDE",
+        "plano_orcamentario": "ESTRUTURACAO DA REDE DE SERVICOS DE ATENCAO PRIMARIA A SAUDE - DESPESAS DIVERSAS",
+        "valor_empenhado": 99911.0,
+        "valor_pago": 99911.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "Nacional",
+        "area_funcao": "Defesa nacional",
+        "subfuncao": "Defesa terrestre",
+        "acao_orcamentaria": "21A0 - APRESTAMENTO DAS FORCAS - MANUTENCAO DA PRONTIDAO E DA CAPACIDADE OPERATIVA",
+        "plano_orcamentario": "APRESTAMENTO DAS FORCAS - MANUTENCAO DA PRONTIDAO E DA CAPACIDADE OPERATIVA - DESPESAS DIVERSAS",
+        "valor_empenhado": 99997.83,
+        "valor_pago": 99997.83
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "Nacional",
+        "area_funcao": "Segurança pública",
+        "subfuncao": "Custódia e reintegração social",
+        "acao_orcamentaria": "21BP - APRIMORAMENTO DO SISTEMA PENITENCIARIO NACIONAL E INCENTIVO AO DESENVOLVIMENTO DA INTELIGENCIA PENITENCIARIA",
+        "plano_orcamentario": "APRIMORAMENTO DO SISTEMA PENITENCIARIO NACIONAL E INCENTIVO AO DESENVOLVIMENTO DA INTELIGENCIA PENITENCIARIA - DESPESAS DIVERSAS",
+        "valor_empenhado": 100000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "CAMAQUÃ - RS",
+        "area_funcao": "Assistência social",
+        "subfuncao": "Assistência comunitária",
+        "acao_orcamentaria": "219G - ESTRUTURACAO DA REDE DE SERVICOS E FORTALECIMENTO DA GESTAO DO SISTEMA UNICO DE ASSISTENCIA SOCIAL (SUAS)",
+        "plano_orcamentario": "ESTRUTURACAO DA REDE DE SERVICOS DO SISTEMA UNICO DE ASSISTENCIA SOCIAL (SUAS) - DESPESAS DIVERSAS",
+        "valor_empenhado": 100000.0,
+        "valor_pago": 100000.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "SÃO SEBASTIÃO DO CAÍ - RS",
+        "area_funcao": "Desporto e lazer",
+        "subfuncao": "Desporto de rendimento",
+        "acao_orcamentaria": "20JO - PROMOCAO E APOIO AO DESENVOLVIMENTO DO FUTEBOL FEMININO E MASCULINO E A DEFESA DOS DIREITOS DO TORCEDOR",
+        "plano_orcamentario": "PROMOCAO E APOIO AO DESENVOLVIMENTO DO FUTEBOL MASCULINO E FEMININO E DEFESA DOS DIREITOS DO TORCEDOR - DESPESAS DIVERSAS",
+        "valor_empenhado": 100000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "Nacional",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "6148 - ASSISTENCIA MEDICA QUALIFICADA E GRATUITA A TODOS OS NIVEIS DA POPULACAO E DESENVOLVIMENTO DE ATIVIDADES EDUCACIONAIS E DE PESQUISA NO CAMPO DA SAUDE - REDE SARAH DE HOSPITAIS DE REABILITACAO",
+        "plano_orcamentario": "ASSISTENCIA MEDICA QUALIFICADA E GRATUITA A TODOS OS NIVEIS DA POPULACAO E DESENVOLVIMENTO DE ATIVIDADES EDUCACIONAIS E DE PESQUISA NO CAMPO DA SAUDE - REDE SARAH DE HOSPITAIS DE REABILITACAO - DESPES",
+        "valor_empenhado": 108338.0,
+        "valor_pago": 108338.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "SÃO LUIZ GONZAGA - RS",
+        "area_funcao": "Saúde",
+        "subfuncao": "Vigilância epidemiológica",
+        "acao_orcamentaria": "2E87 - IMPLEMENTACAO DA AGENDA NACIONAL DE PROTECAO, DEFESA, BEM-ESTAR E DIREITOS ANIMAIS",
+        "plano_orcamentario": "CONTROLE DA POPULACAO DE ANIMAIS EM SITUACOES EXCEPCIONAIS (CASTRACAO E ATENCAO VETERINARIA - LDO 2020, ART. 41)",
+        "valor_empenhado": 145290.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2024,
+        "cidade_beneficiada": "Nacional",
+        "area_funcao": "Defesa nacional",
+        "subfuncao": "Defesa terrestre",
+        "acao_orcamentaria": "21A0 - APRESTAMENTO DAS FORCAS - MANUTENCAO DA PRONTIDAO E DA CAPACIDADE OPERATIVA",
+        "plano_orcamentario": "APRESTAMENTO DAS FORCAS - MANUTENCAO DA PRONTIDAO E DA CAPACIDADE OPERATIVA - DESPESAS DIVERSAS",
+        "valor_empenhado": 149732.76,
+        "valor_pago": 146686.76
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "CAMPO BOM - RS",
+        "area_funcao": "Saúde",
+        "subfuncao": "Atenção básica",
+        "acao_orcamentaria": "2E89 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS - DESPESAS DIVERSAS",
+        "valor_empenhado": 162508.0,
+        "valor_pago": 162508.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "Sul",
+        "area_funcao": "Segurança pública",
+        "subfuncao": "Policiamento",
+        "acao_orcamentaria": "21BM - DESENVOLVIMENTO DE POLITICAS DE SEGURANCA PUBLICA, PREVENCAO E ENFRENTAMENTO A CRIMINALIDADE",
+        "plano_orcamentario": "DESENVOLVIMENTO DE POLITICAS DE SEGURANCA PUBLICA, PREVENCAO E ENFRENTAMENTO A CRIMINALIDADE - DESPESAS DIVERSAS",
+        "valor_empenhado": 189993.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2024,
+        "cidade_beneficiada": "Nacional",
+        "area_funcao": "Defesa nacional",
+        "subfuncao": "Defesa naval",
+        "acao_orcamentaria": "219D - ADEQUACAO DE ATIVOS DE INFRAESTRUTURA DAS ORGANIZACOES MILITARES",
+        "plano_orcamentario": "ADEQUACAO DE ATIVOS DE INFRAESTRUTURA DAS ORGANIZACOES MILITARES - DESPESAS DIVERSAS",
+        "valor_empenhado": 198967.85,
+        "valor_pago": 4700.0
+    },
+    {
+        "ano": 2025,
+        "cidade_beneficiada": "RIO GRANDE DO SUL (UF)",
+        "area_funcao": "Desporto e lazer",
+        "subfuncao": "Desporto de rendimento",
+        "acao_orcamentaria": "216T - APOIO A PROJETOS DE EXCELENCIA ESPORTIVA NAS FASES DE ALTO RENDIMENTO E TRANSICAO DE CARREIRA",
+        "plano_orcamentario": "APOIO A PROJETOS DE EXCELENCIA ESPORTIVA NAS FASES DE ALTO RENDIMENTO E TRANSICAO DE CARREIRA - DESPESAS DIVERSAS",
+        "valor_empenhado": 199998.72,
+        "valor_pago": 196000.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "RIO GRANDE DO SUL (UF)",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "2E90 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS - DESPESAS DIVERSAS",
+        "valor_empenhado": 200000.0,
+        "valor_pago": 200000.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "TAQUARI - RS",
+        "area_funcao": "Encargos especiais",
+        "subfuncao": "Outras transferências",
+        "acao_orcamentaria": "0EC2 - TRANSFERENCIAS ESPECIAIS",
+        "plano_orcamentario": "TRANSFERENCIAS ESPECIAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 200000.0,
+        "valor_pago": 200000.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "BARROS CASSAL - RS",
+        "area_funcao": "Encargos especiais",
+        "subfuncao": "Outras transferências",
+        "acao_orcamentaria": "0EC2 - TRANSFERENCIAS ESPECIAIS",
+        "plano_orcamentario": "TRANSFERENCIAS ESPECIAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 200000.0,
+        "valor_pago": 200000.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "RIO GRANDE DO SUL (UF)",
+        "area_funcao": "Cultura",
+        "subfuncao": "Difusão cultural",
+        "acao_orcamentaria": "20ZF - PROMOCAO E FOMENTO A CULTURA BRASILEIRA",
+        "plano_orcamentario": "PROMOCAO E FOMENTO A CULTURA BRASILEIRA - DESPESAS DIVERSAS",
+        "valor_empenhado": 200000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2023,
+        "cidade_beneficiada": "RIO GRANDE DO SUL (UF)",
+        "area_funcao": "Cultura",
+        "subfuncao": "Difusão cultural",
+        "acao_orcamentaria": "20ZF - PROMOCAO E FOMENTO A CULTURA BRASILEIRA",
+        "plano_orcamentario": "PROMOCAO E FOMENTO A CULTURA BRASILEIRA",
+        "valor_empenhado": 244381.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "SÃO PEDRO DA SERRA - RS",
+        "area_funcao": "Educação",
+        "subfuncao": "Educação básica",
+        "acao_orcamentaria": "20RP - APOIO A INFRAESTRUTURA PARA A EDUCACAO BASICA",
+        "plano_orcamentario": "APOIO A INFRAESTRUTURA PARA A EDUCACAO BASICA - DESPESAS DIVERSAS",
+        "valor_empenhado": 248974.3,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "RIO GRANDE DO SUL (UF)",
+        "area_funcao": "Educação",
+        "subfuncao": "Ensino profissional",
+        "acao_orcamentaria": "21B4 - FOMENTO AO DESENVOLVIMENTO E MODERNIZACAO DOS SISTEMAS DE ENSINO DE EDUCACAO PROFISSIONAL E TECNOLOGICA",
+        "plano_orcamentario": "FOMENTO AO DESENVOLVIMENTO E MODERNIZACAO DOS SISTEMAS DE ENSINO DE EDUCACAO PROFISSIONAL E TECNOLOGICA - DESPESAS DIVERSAS",
+        "valor_empenhado": 249700.25,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "BARRA DO RIBEIRO - RS",
+        "area_funcao": "Saúde",
+        "subfuncao": "Administração geral",
+        "acao_orcamentaria": "21C0 - ENFRENTAMENTO DA EMERGENCIA DE SAUDE PUBLICA DE IMPORTANCIA INTERNACIONAL DECORRENTE DO CORONAVIRUS",
+        "plano_orcamentario": "ENFRENTAMENTO DA EMERGENCIA DE SAUDE PUBLICA DE IMPORTANCIA INTERNACIONAL DECORRENTE DO CORONAVIRUS - DESPESAS DIVERSAS",
+        "valor_empenhado": 250000.0,
+        "valor_pago": 250000.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Comércio e serviços",
+        "subfuncao": "Turismo",
+        "acao_orcamentaria": "10V0 - APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA",
+        "plano_orcamentario": "APOIO A PROJETOS DE INFRAESTRUTURA TURISTICA - DESPESAS DIVERSAS",
+        "valor_empenhado": 250000.0,
+        "valor_pago": 3500.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "POÇO DAS ANTAS - RS",
+        "area_funcao": "Urbanismo",
+        "subfuncao": "infra-estrutura urbana",
+        "acao_orcamentaria": "10ST - TRANSPORTE NAO MOTORIZADO",
+        "plano_orcamentario": "TRANSPORTE NAO MOTORIZADO",
+        "valor_empenhado": 250000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "SOLEDADE - RS",
+        "area_funcao": "Encargos especiais",
+        "subfuncao": "Outras transferências",
+        "acao_orcamentaria": "0EC2 - TRANSFERENCIAS ESPECIAIS",
+        "plano_orcamentario": "TRANSFERENCIAS ESPECIAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 250000.0,
+        "valor_pago": 250000.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Assistência social",
+        "subfuncao": "Assistência comunitária",
+        "acao_orcamentaria": "219G - ESTRUTURACAO DA REDE DE SERVICOS E FORTALECIMENTO DA GESTAO DO SISTEMA UNICO DE ASSISTENCIA SOCIAL (SUAS)",
+        "plano_orcamentario": "ESTRUTURACAO DA REDE DE SERVICOS DO SISTEMA UNICO DE ASSISTENCIA SOCIAL (SUAS) - DESPESAS DIVERSAS",
+        "valor_empenhado": 250000.0,
+        "valor_pago": 2100.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "SOLEDADE - RS",
+        "area_funcao": "Urbanismo",
+        "subfuncao": "Assistência comunitária",
+        "acao_orcamentaria": "7K66 - APOIO A PROJETOS DE DESENVOLVIMENTO SUSTENTAVEL LOCAL INTEGRADO",
+        "plano_orcamentario": "APOIO A PROJETOS DE DESENVOLVIMENTO SUSTENTAVEL LOCAL INTEGRADO - DESPESAS DIVERSAS",
+        "valor_empenhado": 250000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Urbanismo",
+        "subfuncao": "Assistência comunitária",
+        "acao_orcamentaria": "7K66 - APOIO A PROJETOS DE DESENVOLVIMENTO SUSTENTAVEL LOCAL INTEGRADO",
+        "plano_orcamentario": "APOIO A PROJETOS DE DESENVOLVIMENTO SUSTENTAVEL LOCAL INTEGRADO - DESPESAS DIVERSAS",
+        "valor_empenhado": 250000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "AMARAL FERRADOR - RS",
+        "area_funcao": "Agricultura",
+        "subfuncao": "Promoção da produção agropecuária",
+        "acao_orcamentaria": "20ZV - FOMENTO AO SETOR AGROPECUARIO",
+        "plano_orcamentario": "FOMENTO AO SETOR AGROPECUARIO - DESPESAS DIVERSAS",
+        "valor_empenhado": 250000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "Nacional",
+        "area_funcao": "Segurança pública",
+        "subfuncao": "Policiamento",
+        "acao_orcamentaria": "154T - CONSTRUCAO E AMPLIACAO DE UNIDADES OPERACIONAIS E ADMINISTRATIVAS DA PRF",
+        "plano_orcamentario": "CONSTRUCAO DE UNIDADES OPERACIONAIS E ADMINISTRATIVAS DA PRF - DESPESAS DIVERSAS",
+        "valor_empenhado": 250000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "NOVO HAMBURGO - RS",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "8535 - ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE",
+        "plano_orcamentario": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE - DESPESAS DIVERSAS",
+        "valor_empenhado": 278875.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "CAPITÃO - RS",
+        "area_funcao": "Saúde",
+        "subfuncao": "Atenção básica",
+        "acao_orcamentaria": "2E89 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS - DESPESAS DIVERSAS",
+        "valor_empenhado": 281628.0,
+        "valor_pago": 281628.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "ROLANTE - RS",
+        "area_funcao": "Encargos especiais",
+        "subfuncao": "Outras transferências",
+        "acao_orcamentaria": "0EC2 - TRANSFERENCIAS ESPECIAIS",
+        "plano_orcamentario": "TRANSFERENCIAS ESPECIAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 300000.0,
+        "valor_pago": 300000.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "RIO PARDO - RS",
+        "area_funcao": "Saúde",
+        "subfuncao": "Atenção básica",
+        "acao_orcamentaria": "2E89 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS - DESPESAS DIVERSAS",
+        "valor_empenhado": 300000.0,
+        "valor_pago": 300000.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "LAJEADO - RS",
+        "area_funcao": "Encargos especiais",
+        "subfuncao": "Outras transferências",
+        "acao_orcamentaria": "0EC2 - TRANSFERENCIAS ESPECIAIS",
+        "plano_orcamentario": "TRANSFERENCIAS ESPECIAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 300000.0,
+        "valor_pago": 300000.0
+    },
+    {
+        "ano": 2025,
+        "cidade_beneficiada": "RIO GRANDE DO SUL (UF)",
+        "area_funcao": "Segurança pública",
+        "subfuncao": "Policiamento",
+        "acao_orcamentaria": "21BM - DESENVOLVIMENTO DE POLITICAS DE SEGURANCA PUBLICA, PREVENCAO E ENFRENTAMENTO A CRIMINALIDADE",
+        "plano_orcamentario": "DESENVOLVIMENTO DE POLITICAS DE SEGURANCA PUBLICA, PREVENCAO E ENFRENTAMENTO A CRIMINALIDADE - DESPESAS DIVERSAS",
+        "valor_empenhado": 300000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "SÃO JOSÉ DOS AUSENTES - RS",
+        "area_funcao": "Agricultura",
+        "subfuncao": "Promoção da produção agropecuária",
+        "acao_orcamentaria": "20ZV - FOMENTO AO SETOR AGROPECUARIO",
+        "plano_orcamentario": "FOMENTO AO SETOR AGROPECUARIO - DESPESAS DIVERSAS",
+        "valor_empenhado": 300000.0,
+        "valor_pago": 6213.2
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "RIO GRANDE DO SUL (UF)",
+        "area_funcao": "Segurança pública",
+        "subfuncao": "Policiamento",
+        "acao_orcamentaria": "21BM - DESENVOLVIMENTO DE POLITICAS DE SEGURANCA PUBLICA, PREVENCAO E ENFRENTAMENTO A CRIMINALIDADE",
+        "plano_orcamentario": "DESENVOLVIMENTO DE POLITICAS DE SEGURANCA PUBLICA, PREVENCAO E ENFRENTAMENTO A CRIMINALIDADE - DESPESAS DIVERSAS",
+        "valor_empenhado": 300000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "RIO GRANDE DO SUL (UF)",
+        "area_funcao": "Segurança pública",
+        "subfuncao": "Policiamento",
+        "acao_orcamentaria": "21BM - DESENVOLVIMENTO DE POLITICAS DE SEGURANCA PUBLICA, PREVENCAO E ENFRENTAMENTO A CRIMINALIDADE",
+        "plano_orcamentario": "DESENVOLVIMENTO DE POLITICAS DE SEGURANCA PUBLICA, PREVENCAO E ENFRENTAMENTO A CRIMINALIDADE - DESPESAS DIVERSAS",
+        "valor_empenhado": 300000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "MARATÁ - RS",
+        "area_funcao": "Urbanismo",
+        "subfuncao": "infra-estrutura urbana",
+        "acao_orcamentaria": "00T1 - APOIO A POLITICA NACIONAL DE DESENVOLVIMENTO URBANO VOLTADO A IMPLANTACAO E QUALIFICACAO VIARIA",
+        "plano_orcamentario": "APOIO A POLITICA NACIONAL DE DESENVOLVIMENTO URBANO VOLTADO A IMPLANTACAO E QUALIFICACAO VIARIA - DESPESAS DIVERSAS",
+        "valor_empenhado": 300000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "SÃO GABRIEL - RS",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "8535 - ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE",
+        "plano_orcamentario": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE - DESPESAS DIVERSAS",
+        "valor_empenhado": 300000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Atenção básica",
+        "acao_orcamentaria": "8581 - ESTRUTURACAO DA REDE DE SERVICOS DE ATENCAO PRIMARIA A SAUDE",
+        "plano_orcamentario": "ESTRUTURACAO DA REDE DE SERVICOS DE ATENCAO PRIMARIA A SAUDE - DESPESAS DIVERSAS",
+        "valor_empenhado": 316594.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "TRIUNFO - RS",
+        "area_funcao": "Assistência social",
+        "subfuncao": "Assistência comunitária",
+        "acao_orcamentaria": "219G - ESTRUTURACAO DA REDE DE SERVICOS E FORTALECIMENTO DA GESTAO DO SISTEMA UNICO DE ASSISTENCIA SOCIAL (SUAS)",
+        "plano_orcamentario": "ESTRUTURACAO DA REDE DE SERVICOS DO SISTEMA UNICO DE ASSISTENCIA SOCIAL (SUAS) - DESPESAS DIVERSAS",
+        "valor_empenhado": 325016.0,
+        "valor_pago": 2800.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "SÃO LEOPOLDO - RS",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "2E90 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS - DESPESAS DIVERSAS",
+        "valor_empenhado": 325016.0,
+        "valor_pago": 325016.0
+    },
+    {
+        "ano": 2025,
+        "cidade_beneficiada": "RIO GRANDE DO SUL (UF)",
+        "area_funcao": "Segurança pública",
+        "subfuncao": "Policiamento",
+        "acao_orcamentaria": "2723 - POLICIAMENTO, FISCALIZACAO, ENFRENTAMENTO A CRIMINALIDADE E CORRUPCAO",
+        "plano_orcamentario": "POLICIAMENTO, FISCALIZACAO, ENFRENTAMENTO A CRIMINALIDADE E CORRUPCAO - DESPESAS DIVERSAS",
+        "valor_empenhado": 348600.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2024,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Assistência social",
+        "subfuncao": "Assistência comunitária",
+        "acao_orcamentaria": "219G - ESTRUTURACAO DA REDE DE SERVICOS E FORTALECIMENTO DA GESTAO DO SISTEMA UNICO DE ASSISTENCIA SOCIAL (SUAS)",
+        "plano_orcamentario": "ESTRUTURACAO DA REDE DE SERVICOS DO SISTEMA UNICO DE ASSISTENCIA SOCIAL (SUAS) - DESPESAS DIVERSAS",
+        "valor_empenhado": 350000.0,
+        "valor_pago": 350000.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "CANELA - RS",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "2E90 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS - DESPESAS DIVERSAS",
+        "valor_empenhado": 350000.0,
+        "valor_pago": 350000.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Educação",
+        "subfuncao": "Educação básica",
+        "acao_orcamentaria": "20RP - APOIO A INFRAESTRUTURA PARA A EDUCACAO BASICA",
+        "plano_orcamentario": "APOIO A INFRAESTRUTURA PARA A EDUCACAO BASICA - DESPESAS DIVERSAS",
+        "valor_empenhado": 350000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "NOVA PETRÓPOLIS - RS",
+        "area_funcao": "Desporto e lazer",
+        "subfuncao": "Desporto comunitário",
+        "acao_orcamentaria": "5450 - IMPLANTACAO E MODERNIZACAO DE INFRAESTRUTURA PARA ESPORTE EDUCACIONAL, RECREATIVO E DE LAZER",
+        "plano_orcamentario": "IMPLANTACAO E MODERNIZACAO DE INFRAESTRUTURA PARA ESPORTE EDUCACIONAL, RECREATIVO E DE LAZER - DESPESAS DIVERSAS",
+        "valor_empenhado": 350000.0,
+        "valor_pago": 2100.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "CANELA - RS",
+        "area_funcao": "Encargos especiais",
+        "subfuncao": "Outras transferências",
+        "acao_orcamentaria": "0EC2 - TRANSFERENCIAS ESPECIAIS",
+        "plano_orcamentario": "TRANSFERENCIAS ESPECIAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 350000.0,
+        "valor_pago": 350000.0
+    },
+    {
+        "ano": 2024,
+        "cidade_beneficiada": "RIO GRANDE DO SUL (UF)",
+        "area_funcao": "Educação",
+        "subfuncao": "Ensino superior",
+        "acao_orcamentaria": "8282 - REESTRUTURACAO E MODERNIZACAO DAS INSTITUICOES FEDERAIS DE ENSINO SUPERIOR",
+        "plano_orcamentario": "REESTRUTURACAO E MODERNIZACAO DAS INSTITUICOES FEDERAIS DE ENSINO SUPERIOR - DESPESAS DIVERSAS",
+        "valor_empenhado": 400000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "BARRA DO RIBEIRO - RS",
+        "area_funcao": "Encargos especiais",
+        "subfuncao": "Outras transferências",
+        "acao_orcamentaria": "0EC2 - TRANSFERENCIAS ESPECIAIS",
+        "plano_orcamentario": "TRANSFERENCIAS ESPECIAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 400000.0,
+        "valor_pago": 400000.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "ESTRELA - RS",
+        "area_funcao": "Encargos especiais",
+        "subfuncao": "Outras transferências",
+        "acao_orcamentaria": "0EC2 - TRANSFERENCIAS ESPECIAIS",
+        "plano_orcamentario": "TRANSFERENCIAS ESPECIAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 400000.0,
+        "valor_pago": 400000.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "CAXIAS DO SUL - RS",
+        "area_funcao": "Encargos especiais",
+        "subfuncao": "Outras transferências",
+        "acao_orcamentaria": "0EC2 - TRANSFERENCIAS ESPECIAIS",
+        "plano_orcamentario": "TRANSFERENCIAS ESPECIAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 400000.0,
+        "valor_pago": 400000.0
+    },
+    {
+        "ano": 2023,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Agricultura",
+        "subfuncao": "Promoção da produção agropecuária",
+        "acao_orcamentaria": "20ZV - FOMENTO AO SETOR AGROPECUARIO",
+        "plano_orcamentario": "FOMENTO AO SETOR AGROPECUARIO - DESPESAS DIVERSAS",
+        "valor_empenhado": 488762.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "RIO GRANDE DO SUL (UF)",
+        "area_funcao": "Agricultura",
+        "subfuncao": "Promoção da produção agropecuária",
+        "acao_orcamentaria": "20ZV - FOMENTO AO SETOR AGROPECUARIO",
+        "plano_orcamentario": "FOMENTO AO SETOR AGROPECUARIO - DESPESAS DIVERSAS",
+        "valor_empenhado": 500000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "TABAÍ - RS",
+        "area_funcao": "Agricultura",
+        "subfuncao": "Promoção da produção agropecuária",
+        "acao_orcamentaria": "20ZV - FOMENTO AO SETOR AGROPECUARIO",
+        "plano_orcamentario": "FOMENTO AO SETOR AGROPECUARIO - DESPESAS DIVERSAS",
+        "valor_empenhado": 500000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "CAMAQUÃ - RS",
+        "area_funcao": "Urbanismo",
+        "subfuncao": "infra-estrutura urbana",
+        "acao_orcamentaria": "1D73 - APOIO A POLITICA NACIONAL DE DESENVOLVIMENTO URBANO VOLTADO A IMPLANTACAO E QUALIFICACAO VIARIA",
+        "plano_orcamentario": "APOIO A POLITICA NACIONAL DE DESENVOLVIMENTO URBANO VOLTADO A IMPLANTACAO E QUALIFICACAO VIARIA - DESPESAS DIVERSAS",
+        "valor_empenhado": 500000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2025,
+        "cidade_beneficiada": "RIO GRANDE DO SUL (UF)",
+        "area_funcao": "Gestão ambiental",
+        "subfuncao": "Recursos hídricos",
+        "acao_orcamentaria": "20VR - CONSERVACAO E RECUPERACAO DE BACIAS HIDROGRAFICAS",
+        "plano_orcamentario": "CONSERVACAO E RECUPERACAO DE BACIAS HIDROGRAFICAS",
+        "valor_empenhado": 500000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Desporto e lazer",
+        "subfuncao": "Desporto comunitário",
+        "acao_orcamentaria": "5450 - IMPLANTACAO E MODERNIZACAO DE INFRAESTRUTURA PARA ESPORTE EDUCACIONAL, RECREATIVO E DE LAZER",
+        "plano_orcamentario": "IMPLANTACAO E MODERNIZACAO DE INFRAESTRUTURA PARA ESPORTE EDUCACIONAL, RECREATIVO E DE LAZER - DESPESAS DIVERSAS",
+        "valor_empenhado": 500000.0,
+        "valor_pago": 3500.0
+    },
+    {
+        "ano": 2025,
+        "cidade_beneficiada": "RIO GRANDE DO SUL (UF)",
+        "area_funcao": "Educação",
+        "subfuncao": "Educação básica",
+        "acao_orcamentaria": "20RP - APOIO A INFRAESTRUTURA PARA A EDUCACAO BASICA",
+        "plano_orcamentario": "APOIO A INFRAESTRUTURA PARA A EDUCACAO BASICA - DESPESAS DIVERSAS",
+        "valor_empenhado": 523725.79,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Desporto e lazer",
+        "subfuncao": "Desporto comunitário",
+        "acao_orcamentaria": "5450 - IMPLANTACAO E MODERNIZACAO DE INFRAESTRUTURA PARA ESPORTE EDUCACIONAL, RECREATIVO E DE LAZER",
+        "plano_orcamentario": "IMPLANTACAO E MODERNIZACAO DE INFRAESTRUTURA PARA ESPORTE EDUCACIONAL, RECREATIVO E DE LAZER - DESPESAS DIVERSAS",
+        "valor_empenhado": 550000.0,
+        "valor_pago": 2100.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Agricultura",
+        "subfuncao": "Promoção da produção agropecuária",
+        "acao_orcamentaria": "20ZV - FOMENTO AO SETOR AGROPECUARIO",
+        "plano_orcamentario": "FOMENTO AO SETOR AGROPECUARIO - DESPESAS DIVERSAS",
+        "valor_empenhado": 550000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Múltiplo",
+        "subfuncao": "Múltiplo",
+        "acao_orcamentaria": "MU - Múltiplo",
+        "plano_orcamentario": "IMPLANTACAO, INSTALACAO E MODERNIZACAO DE ESPACOS E EQUIPAMENTOS CULTURAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 550000.0,
+        "valor_pago": 250000.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Agricultura",
+        "subfuncao": "Promoção da produção agropecuária",
+        "acao_orcamentaria": "20ZV - FOMENTO AO SETOR AGROPECUARIO",
+        "plano_orcamentario": "FOMENTO AO SETOR AGROPECUARIO - DESPESAS DIVERSAS",
+        "valor_empenhado": 600000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "2E90 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS - DESPESAS DIVERSAS",
+        "valor_empenhado": 641693.0,
+        "valor_pago": 541693.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "Sul",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "8535 - ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE",
+        "plano_orcamentario": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE - DESPESAS DIVERSAS",
+        "valor_empenhado": 650000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Agricultura",
+        "subfuncao": "Promoção da produção agropecuária",
+        "acao_orcamentaria": "20ZV - FOMENTO AO SETOR AGROPECUARIO",
+        "plano_orcamentario": "FOMENTO AO SETOR AGROPECUARIO - DESPESAS DIVERSAS",
+        "valor_empenhado": 695500.0,
+        "valor_pago": 11322.08
+    },
+    {
+        "ano": 2023,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Atenção básica",
+        "acao_orcamentaria": "8581 - ESTRUTURACAO DA REDE DE SERVICOS DE ATENCAO PRIMARIA A SAUDE",
+        "plano_orcamentario": "ESTRUTURACAO DA REDE DE SERVICOS DE ATENCAO PRIMARIA A SAUDE - DESPESAS DIVERSAS",
+        "valor_empenhado": 748448.0,
+        "valor_pago": 748448.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Urbanismo",
+        "subfuncao": "infra-estrutura urbana",
+        "acao_orcamentaria": "1D73 - APOIO A POLITICA NACIONAL DE DESENVOLVIMENTO URBANO VOLTADO A IMPLANTACAO E QUALIFICACAO VIARIA",
+        "plano_orcamentario": "APOIO A POLITICA NACIONAL DE DESENVOLVIMENTO URBANO VOLTADO A IMPLANTACAO E QUALIFICACAO VIARIA - DESPESAS DIVERSAS",
+        "valor_empenhado": 750000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2023,
+        "cidade_beneficiada": "RIO GRANDE DO SUL (UF)",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "8535 - ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE",
+        "plano_orcamentario": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE - DESPESAS DIVERSAS",
+        "valor_empenhado": 814604.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2025,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Urbanismo",
+        "subfuncao": "infra-estrutura urbana",
+        "acao_orcamentaria": "00T1 - APOIO A POLITICA NACIONAL DE DESENVOLVIMENTO URBANO VOLTADO A IMPLANTACAO E QUALIFICACAO VIARIA",
+        "plano_orcamentario": "APOIO A POLITICA NACIONAL DE DESENVOLVIMENTO URBANO VOLTADO A IMPLANTACAO E QUALIFICACAO VIARIA",
+        "valor_empenhado": 900000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2023,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Urbanismo",
+        "subfuncao": "infra-estrutura urbana",
+        "acao_orcamentaria": "00T1 - APOIO A POLITICA NACIONAL DE DESENVOLVIMENTO URBANO VOLTADO A IMPLANTACAO E QUALIFICACAO VIARIA",
+        "plano_orcamentario": "APOIO A POLITICA NACIONAL DE DESENVOLVIMENTO URBANO VOLTADO A IMPLANTACAO E QUALIFICACAO VIARIA - DESPESAS DIVERSAS",
+        "valor_empenhado": 977525.0,
+        "valor_pago": 40487.0
+    },
+    {
+        "ano": 2024,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Atenção básica",
+        "acao_orcamentaria": "8581 - ESTRUTURACAO DA REDE DE SERVICOS DE ATENCAO PRIMARIA A SAUDE",
+        "plano_orcamentario": "ESTRUTURACAO DA REDE DE SERVICOS DE ATENCAO PRIMARIA A SAUDE - DESPESAS DIVERSAS",
+        "valor_empenhado": 984462.0,
+        "valor_pago": 984462.0
+    },
+    {
+        "ano": 2025,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Atenção básica",
+        "acao_orcamentaria": "8581 - ESTRUTURACAO DA REDE DE SERVICOS DE ATENCAO PRIMARIA A SAUDE",
+        "plano_orcamentario": "ESTRUTURACAO DA REDE DE SERVICOS DE ATENCAO PRIMARIA A SAUDE - DESPESAS DIVERSAS",
+        "valor_empenhado": 999933.0,
+        "valor_pago": 999933.0
+    },
+    {
+        "ano": 2024,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Encargos especiais",
+        "subfuncao": "Outras transferências",
+        "acao_orcamentaria": "0EC2 - TRANSFERENCIAS ESPECIAIS",
+        "plano_orcamentario": "TRANSFERENCIAS ESPECIAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 1000000.0,
+        "valor_pago": 1000000.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Atenção básica",
+        "acao_orcamentaria": "8581 - ESTRUTURACAO DA REDE DE SERVICOS DE ATENCAO PRIMARIA A SAUDE",
+        "plano_orcamentario": "ESTRUTURACAO DA REDE DE SERVICOS DE ATENCAO PRIMARIA A SAUDE - DESPESAS DIVERSAS",
+        "valor_empenhado": 1061485.0,
+        "valor_pago": 829279.0
+    },
+    {
+        "ano": 2024,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Urbanismo",
+        "subfuncao": "infra-estrutura urbana",
+        "acao_orcamentaria": "00T1 - APOIO A POLITICA NACIONAL DE DESENVOLVIMENTO URBANO VOLTADO A IMPLANTACAO E QUALIFICACAO VIARIA",
+        "plano_orcamentario": "APOIO A POLITICA NACIONAL DE DESENVOLVIMENTO URBANO VOLTADO A IMPLANTACAO E QUALIFICACAO VIARIA",
+        "valor_empenhado": 1200000.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2025,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Agricultura",
+        "subfuncao": "Promoção da produção agropecuária",
+        "acao_orcamentaria": "20ZV - FOMENTO AO SETOR AGROPECUARIO",
+        "plano_orcamentario": "FOMENTO AO SETOR AGROPECUARIO - DESPESAS DIVERSAS",
+        "valor_empenhado": 1300000.0,
+        "valor_pago": 10242.1
+    },
+    {
+        "ano": 2025,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "8535 - ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE",
+        "plano_orcamentario": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE - DESPESAS DIVERSAS",
+        "valor_empenhado": 1438437.0,
+        "valor_pago": 0.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Atenção básica",
+        "acao_orcamentaria": "2E89 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS - DESPESAS DIVERSAS",
+        "valor_empenhado": 1730450.0,
+        "valor_pago": 1730450.0
+    },
+    {
+        "ano": 2024,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "8535 - ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE",
+        "plano_orcamentario": "ESTRUTURACAO DE UNIDADES DE ATENCAO ESPECIALIZADA EM SAUDE - DESPESAS DIVERSAS",
+        "valor_empenhado": 1899710.0,
+        "valor_pago": 1049710.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Urbanismo",
+        "subfuncao": "infra-estrutura urbana",
+        "acao_orcamentaria": "1D73 - APOIO A POLITICA NACIONAL DE DESENVOLVIMENTO URBANO VOLTADO A IMPLANTACAO E QUALIFICACAO VIARIA",
+        "plano_orcamentario": "APOIO A POLITICA NACIONAL DE DESENVOLVIMENTO URBANO VOLTADO A IMPLANTACAO E QUALIFICACAO VIARIA - DESPESAS DIVERSAS",
+        "valor_empenhado": 2200000.0,
+        "valor_pago": 58556.7
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "2E90 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS - DESPESAS DIVERSAS",
+        "valor_empenhado": 2350000.0,
+        "valor_pago": 2350000.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Encargos especiais",
+        "subfuncao": "Outras transferências",
+        "acao_orcamentaria": "0EC2 - TRANSFERENCIAS ESPECIAIS",
+        "plano_orcamentario": "TRANSFERENCIAS ESPECIAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 2550000.0,
+        "valor_pago": 2550000.0
+    },
+    {
+        "ano": 2021,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Atenção básica",
+        "acao_orcamentaria": "2E89 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS - DESPESAS DIVERSAS",
+        "valor_empenhado": 3273993.0,
+        "valor_pago": 3273993.0
+    },
+    {
+        "ano": 2024,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "2E90 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS",
+        "valor_empenhado": 3405973.0,
+        "valor_pago": 3305973.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Encargos especiais",
+        "subfuncao": "Outras transferências",
+        "acao_orcamentaria": "0EC2 - TRANSFERENCIAS ESPECIAIS",
+        "plano_orcamentario": "TRANSFERENCIAS ESPECIAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 4150000.0,
+        "valor_pago": 875000.0
+    },
+    {
+        "ano": 2023,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "2E90 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS - DESPESAS DIVERSAS",
+        "valor_empenhado": 4247236.0,
+        "valor_pago": 4247236.0
+    },
+    {
+        "ano": 2025,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "2E90 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS",
+        "valor_empenhado": 4500000.0,
+        "valor_pago": 4400000.0
+    },
+    {
+        "ano": 2020,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Assistência hospitalar e ambulatorial",
+        "acao_orcamentaria": "2E90 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ASSISTENCIA HOSPITALAR E AMBULATORIAL PARA CUMPRIMENTO DE METAS - DESPESAS DIVERSAS",
+        "valor_empenhado": 6921125.0,
+        "valor_pago": 6921125.0
+    },
+    {
+        "ano": 2022,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Atenção básica",
+        "acao_orcamentaria": "2E89 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS - DESPESAS DIVERSAS",
+        "valor_empenhado": 7740595.0,
+        "valor_pago": 7397207.0
+    },
+    {
+        "ano": 2023,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Atenção básica",
+        "acao_orcamentaria": "2E89 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS - DESPESAS DIVERSAS",
+        "valor_empenhado": 10239336.0,
+        "valor_pago": 9989336.0
+    },
+    {
+        "ano": 2025,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Atenção básica",
+        "acao_orcamentaria": "2E89 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS",
+        "valor_empenhado": 11687992.0,
+        "valor_pago": 10687992.0
+    },
+    {
+        "ano": 2024,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Saúde",
+        "subfuncao": "Atenção básica",
+        "acao_orcamentaria": "2E89 - INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS",
+        "plano_orcamentario": "INCREMENTO TEMPORARIO AO CUSTEIO DOS SERVICOS DE ATENCAO PRIMARIA A SAUDE PARA CUMPRIMENTO DE METAS",
+        "valor_empenhado": 12495021.0,
+        "valor_pago": 11285794.0
+    },
+    {
+        "ano": 2025,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Encargos especiais",
+        "subfuncao": "Outras transferências",
+        "acao_orcamentaria": "0EC2 - TRANSFERENCIAS ESPECIAIS",
+        "plano_orcamentario": "TRANSFERENCIAS ESPECIAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 14227573.26,
+        "valor_pago": 14085298.26
+    },
+    {
+        "ano": 2023,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Encargos especiais",
+        "subfuncao": "Outras transferências",
+        "acao_orcamentaria": "0EC2 - TRANSFERENCIAS ESPECIAIS",
+        "plano_orcamentario": "TRANSFERENCIAS ESPECIAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 14341029.0,
+        "valor_pago": 14341029.0
+    },
+    {
+        "ano": 2024,
+        "cidade_beneficiada": "MÚLTIPLO",
+        "area_funcao": "Encargos especiais",
+        "subfuncao": "Outras transferências",
+        "acao_orcamentaria": "0EC2 - TRANSFERENCIAS ESPECIAIS",
+        "plano_orcamentario": "TRANSFERENCIAS ESPECIAIS - DESPESAS DIVERSAS",
+        "valor_empenhado": 15635791.0,
+        "valor_pago": 15635791.0
+    }
+]

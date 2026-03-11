@@ -1,0 +1,1338 @@
+[
+    {
+        "municipio":"ACEGUÁ",
+        "votos":1
+    },
+    {
+        "municipio":"ÁGUA SANTA",
+        "votos":10
+    },
+    {
+        "municipio":"AGUDO",
+        "votos":2
+    },
+    {
+        "municipio":"ALECRIM",
+        "votos":1
+    },
+    {
+        "municipio":"ALEGRETE",
+        "votos":34
+    },
+    {
+        "municipio":"ALMIRANTE TAMANDARÉ DO SUL",
+        "votos":2
+    },
+    {
+        "municipio":"ALTO ALEGRE",
+        "votos":2
+    },
+    {
+        "municipio":"ALTO FELIZ",
+        "votos":18
+    },
+    {
+        "municipio":"ALVORADA",
+        "votos":71
+    },
+    {
+        "municipio":"AMARAL FERRADOR",
+        "votos":2
+    },
+    {
+        "municipio":"ANTA GORDA",
+        "votos":293
+    },
+    {
+        "municipio":"ANTÔNIO PRADO",
+        "votos":1
+    },
+    {
+        "municipio":"ARAMBARÉ",
+        "votos":6
+    },
+    {
+        "municipio":"ARARICÁ",
+        "votos":105
+    },
+    {
+        "municipio":"ARROIO DO MEIO",
+        "votos":428
+    },
+    {
+        "municipio":"ARROIO DO SAL",
+        "votos":31
+    },
+    {
+        "municipio":"ARROIO DOS RATOS",
+        "votos":104
+    },
+    {
+        "municipio":"ARVOREZINHA",
+        "votos":6
+    },
+    {
+        "municipio":"ÁUREA",
+        "votos":50
+    },
+    {
+        "municipio":"BAGÉ",
+        "votos":113
+    },
+    {
+        "municipio":"BALNEÁRIO PINHAL",
+        "votos":10
+    },
+    {
+        "municipio":"BARÃO",
+        "votos":222
+    },
+    {
+        "municipio":"BARÃO DO TRIUNFO",
+        "votos":46
+    },
+    {
+        "municipio":"BARRA DO RIBEIRO",
+        "votos":417
+    },
+    {
+        "municipio":"BARRA FUNDA",
+        "votos":3
+    },
+    {
+        "municipio":"BARROS CASSAL",
+        "votos":2
+    },
+    {
+        "municipio":"BENJAMIN CONSTANT DO SUL",
+        "votos":16
+    },
+    {
+        "municipio":"BENTO GONÇALVES",
+        "votos":75
+    },
+    {
+        "municipio":"BOA VISTA DAS MISSÕES",
+        "votos":1
+    },
+    {
+        "municipio":"BOA VISTA DO BURICÁ",
+        "votos":4
+    },
+    {
+        "municipio":"BOA VISTA DO CADEADO",
+        "votos":1
+    },
+    {
+        "municipio":"BOA VISTA DO SUL",
+        "votos":42
+    },
+    {
+        "municipio":"BOM JESUS",
+        "votos":676
+    },
+    {
+        "municipio":"BOM PRINCÍPIO",
+        "votos":573
+    },
+    {
+        "municipio":"BOM RETIRO DO SUL",
+        "votos":718
+    },
+    {
+        "municipio":"BOQUEIRÃO DO LEÃO",
+        "votos":24
+    },
+    {
+        "municipio":"BOSSOROCA",
+        "votos":4
+    },
+    {
+        "municipio":"BROCHIER",
+        "votos":235
+    },
+    {
+        "municipio":"BUTIÁ",
+        "votos":96
+    },
+    {
+        "municipio":"CAÇAPAVA DO SUL",
+        "votos":4
+    },
+    {
+        "municipio":"CACHOEIRA DO SUL",
+        "votos":21
+    },
+    {
+        "municipio":"CACHOEIRINHA",
+        "votos":62
+    },
+    {
+        "municipio":"CAIBATÉ",
+        "votos":2
+    },
+    {
+        "municipio":"CAMAQUÃ",
+        "votos":47
+    },
+    {
+        "municipio":"CAMBARÁ DO SUL",
+        "votos":786
+    },
+    {
+        "municipio":"CAMPESTRE DA SERRA",
+        "votos":1
+    },
+    {
+        "municipio":"CAMPINAS DO SUL",
+        "votos":4
+    },
+    {
+        "municipio":"CAMPO BOM",
+        "votos":569
+    },
+    {
+        "municipio":"CAMPO NOVO",
+        "votos":1
+    },
+    {
+        "municipio":"CAMPOS BORGES",
+        "votos":2
+    },
+    {
+        "municipio":"CANDELÁRIA",
+        "votos":13
+    },
+    {
+        "municipio":"CANDIOTA",
+        "votos":1
+    },
+    {
+        "municipio":"CANELA",
+        "votos":1119
+    },
+    {
+        "municipio":"CANGUÇU",
+        "votos":1
+    },
+    {
+        "municipio":"CANOAS",
+        "votos":207
+    },
+    {
+        "municipio":"CANUDOS DO VALE",
+        "votos":54
+    },
+    {
+        "municipio":"CAPÃO DA CANOA",
+        "votos":431
+    },
+    {
+        "municipio":"CAPÃO DO CIPÓ",
+        "votos":3
+    },
+    {
+        "municipio":"CAPÃO DO LEÃO",
+        "votos":1
+    },
+    {
+        "municipio":"CAPELA DE SANTANA",
+        "votos":325
+    },
+    {
+        "municipio":"CAPITÃO",
+        "votos":129
+    },
+    {
+        "municipio":"CAPIVARI DO SUL",
+        "votos":12
+    },
+    {
+        "municipio":"CARÁ",
+        "votos":55
+    },
+    {
+        "municipio":"CARAZINHO",
+        "votos":22
+    },
+    {
+        "municipio":"CARLOS BARBOSA",
+        "votos":43
+    },
+    {
+        "municipio":"CARLOS GOMES",
+        "votos":2
+    },
+    {
+        "municipio":"CASCA",
+        "votos":1
+    },
+    {
+        "municipio":"CASEIROS",
+        "votos":5
+    },
+    {
+        "municipio":"CATUÍPE",
+        "votos":5
+    },
+    {
+        "municipio":"CAXIAS DO SUL",
+        "votos":216
+    },
+    {
+        "municipio":"CENTENÁRIO",
+        "votos":3
+    },
+    {
+        "municipio":"CERRO GRANDE DO SUL",
+        "votos":49
+    },
+    {
+        "municipio":"CERRO LARGO",
+        "votos":5
+    },
+    {
+        "municipio":"CHAPADA",
+        "votos":221
+    },
+    {
+        "municipio":"CHARQUEADAS",
+        "votos":542
+    },
+    {
+        "municipio":"CHIAPETTA",
+        "votos":5
+    },
+    {
+        "municipio":"CHUÍ",
+        "votos":3
+    },
+    {
+        "municipio":"CHUVISCA",
+        "votos":27
+    },
+    {
+        "municipio":"CIDREIRA",
+        "votos":4
+    },
+    {
+        "municipio":"CIRÍACO",
+        "votos":1
+    },
+    {
+        "municipio":"COLINAS",
+        "votos":220
+    },
+    {
+        "municipio":"COQUEIRO BAIXO",
+        "votos":32
+    },
+    {
+        "municipio":"CORONEL PILAR",
+        "votos":5
+    },
+    {
+        "municipio":"COTIPORÃ",
+        "votos":24
+    },
+    {
+        "municipio":"CRISTAL",
+        "votos":1
+    },
+    {
+        "municipio":"CRISTAL DO SUL",
+        "votos":1
+    },
+    {
+        "municipio":"CRUZALTENSE",
+        "votos":2
+    },
+    {
+        "municipio":"CRUZEIRO DO SUL",
+        "votos":577
+    },
+    {
+        "municipio":"DAVID CANABARRO",
+        "votos":1
+    },
+    {
+        "municipio":"DEZESSEIS DE NOVEMBRO",
+        "votos":1
+    },
+    {
+        "municipio":"DOIS IRMÃOS",
+        "votos":314
+    },
+    {
+        "municipio":"DOIS LAJEADOS",
+        "votos":4
+    },
+    {
+        "municipio":"DOM FELICIANO",
+        "votos":410
+    },
+    {
+        "municipio":"DOM PEDRITO",
+        "votos":1
+    },
+    {
+        "municipio":"DOM PEDRO DE ALCÂNTARA",
+        "votos":1
+    },
+    {
+        "municipio":"DOUTOR MAURÍCIO CARDOSO",
+        "votos":1
+    },
+    {
+        "municipio":"DOUTOR RICARDO",
+        "votos":13
+    },
+    {
+        "municipio":"ELDORADO DO SUL",
+        "votos":19
+    },
+    {
+        "municipio":"ENCANTADO",
+        "votos":387
+    },
+    {
+        "municipio":"ENCRUZILHADA DO SUL",
+        "votos":9
+    },
+    {
+        "municipio":"ENGENHO VELHO",
+        "votos":1
+    },
+    {
+        "municipio":"EREBANGO",
+        "votos":1
+    },
+    {
+        "municipio":"ERECHIM",
+        "votos":18
+    },
+    {
+        "municipio":"ERVAL SECO",
+        "votos":43
+    },
+    {
+        "municipio":"ESMERALDA",
+        "votos":1
+    },
+    {
+        "municipio":"ESPUMOSO",
+        "votos":11
+    },
+    {
+        "municipio":"ESTAÇÃO",
+        "votos":13
+    },
+    {
+        "municipio":"ESTÂNCIA VELHA",
+        "votos":1343
+    },
+    {
+        "municipio":"ESTEIO",
+        "votos":117
+    },
+    {
+        "municipio":"ESTRELA",
+        "votos":1160
+    },
+    {
+        "municipio":"FAGUNDES VARELA",
+        "votos":1
+    },
+    {
+        "municipio":"FARROUPILHA",
+        "votos":18
+    },
+    {
+        "municipio":"FAXINALZINHO",
+        "votos":8
+    },
+    {
+        "municipio":"FAZENDA VILANOVA",
+        "votos":272
+    },
+    {
+        "municipio":"FELIZ",
+        "votos":597
+    },
+    {
+        "municipio":"FLORES DA CUNHA",
+        "votos":8
+    },
+    {
+        "municipio":"FLORIANO PEIXOTO",
+        "votos":1
+    },
+    {
+        "municipio":"FONTOURA XAVIER",
+        "votos":2
+    },
+    {
+        "municipio":"FORMIGUEIRO",
+        "votos":2
+    },
+    {
+        "municipio":"FORQUETINHA",
+        "votos":172
+    },
+    {
+        "municipio":"FREDERICO WESTPHALEN",
+        "votos":15
+    },
+    {
+        "municipio":"GARIBALDI",
+        "votos":39
+    },
+    {
+        "municipio":"GAURAMA",
+        "votos":1
+    },
+    {
+        "municipio":"GENERAL CÂMARA",
+        "votos":187
+    },
+    {
+        "municipio":"GETÚLIO VARGAS",
+        "votos":24
+    },
+    {
+        "municipio":"GLORINHA",
+        "votos":338
+    },
+    {
+        "municipio":"GRAMADO",
+        "votos":113
+    },
+    {
+        "municipio":"GRAMADO XAVIER",
+        "votos":2
+    },
+    {
+        "municipio":"GRAVATAÍ",
+        "votos":124
+    },
+    {
+        "municipio":"GUAÍBA",
+        "votos":27
+    },
+    {
+        "municipio":"GUAPORÉ",
+        "votos":17
+    },
+    {
+        "municipio":"GUARANI DAS MISSÕES",
+        "votos":1
+    },
+    {
+        "municipio":"HARMONIA",
+        "votos":239
+    },
+    {
+        "municipio":"HERVAL",
+        "votos":1
+    },
+    {
+        "municipio":"HORIZONTINA",
+        "votos":5
+    },
+    {
+        "municipio":"HULHA NEGRA",
+        "votos":1
+    },
+    {
+        "municipio":"IBIAÇÁ",
+        "votos":3
+    },
+    {
+        "municipio":"IBIRAPUITÃ",
+        "votos":1
+    },
+    {
+        "municipio":"IBIRUBÁ",
+        "votos":8
+    },
+    {
+        "municipio":"IGREJINHA",
+        "votos":202
+    },
+    {
+        "municipio":"IJUÍ",
+        "votos":5
+    },
+    {
+        "municipio":"ILÓPOLIS",
+        "votos":11
+    },
+    {
+        "municipio":"IMBÉ",
+        "votos":55
+    },
+    {
+        "municipio":"IMIGRANTE",
+        "votos":130
+    },
+    {
+        "municipio":"IPÊ",
+        "votos":2
+    },
+    {
+        "municipio":"IPIRANGA DO SUL",
+        "votos":4
+    },
+    {
+        "municipio":"IRAÍ",
+        "votos":1
+    },
+    {
+        "municipio":"ITAPUCA",
+        "votos":76
+    },
+    {
+        "municipio":"ITAQUI",
+        "votos":4
+    },
+    {
+        "municipio":"ITATI",
+        "votos":3
+    },
+    {
+        "municipio":"IVOTI",
+        "votos":114
+    },
+    {
+        "municipio":"JABOTICABA",
+        "votos":2
+    },
+    {
+        "municipio":"JACUIZINHO",
+        "votos":1
+    },
+    {
+        "municipio":"JACUTINGA",
+        "votos":6
+    },
+    {
+        "municipio":"JAGUARÃO",
+        "votos":4
+    },
+    {
+        "municipio":"JAGUARI",
+        "votos":1
+    },
+    {
+        "municipio":"JAQUIRANA",
+        "votos":17
+    },
+    {
+        "municipio":"JARI",
+        "votos":4
+    },
+    {
+        "municipio":"JÓIA",
+        "votos":4
+    },
+    {
+        "municipio":"JÚLIO DE CASTILHOS",
+        "votos":4
+    },
+    {
+        "municipio":"LAGOA BONITA DO SUL",
+        "votos":1
+    },
+    {
+        "municipio":"LAGOA VERMELHA",
+        "votos":44
+    },
+    {
+        "municipio":"LAGOÃO",
+        "votos":1
+    },
+    {
+        "municipio":"LAJEADO",
+        "votos":2183
+    },
+    {
+        "municipio":"LINDOLFO COLLOR",
+        "votos":17
+    },
+    {
+        "municipio":"LINHA NOVA",
+        "votos":33
+    },
+    {
+        "municipio":"MAMPITUBA",
+        "votos":1
+    },
+    {
+        "municipio":"MAQUINÉ",
+        "votos":17
+    },
+    {
+        "municipio":"MARATÁ",
+        "votos":84
+    },
+    {
+        "municipio":"MARAU",
+        "votos":14
+    },
+    {
+        "municipio":"MARCELINO RAMOS",
+        "votos":25
+    },
+    {
+        "municipio":"MARIANA PIMENTEL",
+        "votos":3
+    },
+    {
+        "municipio":"MARQUES DE SOUZA",
+        "votos":80
+    },
+    {
+        "municipio":"MATA",
+        "votos":1
+    },
+    {
+        "municipio":"MATO LEITÃO",
+        "votos":282
+    },
+    {
+        "municipio":"MINAS DO LEÃO",
+        "votos":25
+    },
+    {
+        "municipio":"MONTE ALEGRE DOS CAMPOS",
+        "votos":6
+    },
+    {
+        "municipio":"MONTE BELO DO SUL",
+        "votos":2
+    },
+    {
+        "municipio":"MONTENEGRO",
+        "votos":1357
+    },
+    {
+        "municipio":"MORMAÇO",
+        "votos":1
+    },
+    {
+        "municipio":"MORRO REUTER",
+        "votos":110
+    },
+    {
+        "municipio":"MOSTARDAS",
+        "votos":5
+    },
+    {
+        "municipio":"MUÇUM",
+        "votos":843
+    },
+    {
+        "municipio":"MULITERNO",
+        "votos":1
+    },
+    {
+        "municipio":"NÃO-ME-TOQUE",
+        "votos":9
+    },
+    {
+        "municipio":"NONOAI",
+        "votos":2
+    },
+    {
+        "municipio":"NOVA ALVORADA",
+        "votos":6
+    },
+    {
+        "municipio":"NOVA BOA VISTA",
+        "votos":5
+    },
+    {
+        "municipio":"NOVA BRÉSCIA",
+        "votos":174
+    },
+    {
+        "municipio":"NOVA CANDELÁRIA",
+        "votos":2
+    },
+    {
+        "municipio":"NOVA HARTZ",
+        "votos":98
+    },
+    {
+        "municipio":"NOVA PÁDUA",
+        "votos":1
+    },
+    {
+        "municipio":"NOVA PETRÓPOLIS",
+        "votos":1204
+    },
+    {
+        "municipio":"NOVA PRATA",
+        "votos":3
+    },
+    {
+        "municipio":"NOVA SANTA RITA",
+        "votos":82
+    },
+    {
+        "municipio":"NOVO BARREIRO",
+        "votos":1
+    },
+    {
+        "municipio":"NOVO CABRAIS",
+        "votos":2
+    },
+    {
+        "municipio":"NOVO HAMBURGO",
+        "votos":16955
+    },
+    {
+        "municipio":"NOVO XINGU",
+        "votos":1
+    },
+    {
+        "municipio":"OSÓRIO",
+        "votos":60
+    },
+    {
+        "municipio":"PAIM FILHO",
+        "votos":2
+    },
+    {
+        "municipio":"PALMARES DO SUL",
+        "votos":56
+    },
+    {
+        "municipio":"PALMEIRA DAS MISSÕES",
+        "votos":29
+    },
+    {
+        "municipio":"PALMITINHO",
+        "votos":6
+    },
+    {
+        "municipio":"PANAMBI",
+        "votos":10
+    },
+    {
+        "municipio":"PARAÍSO DO SUL",
+        "votos":1
+    },
+    {
+        "municipio":"PARECI NOVO",
+        "votos":188
+    },
+    {
+        "municipio":"PAROBÉ",
+        "votos":127
+    },
+    {
+        "municipio":"PASSO DO SOBRADO",
+        "votos":4
+    },
+    {
+        "municipio":"PASSO FUNDO",
+        "votos":38
+    },
+    {
+        "municipio":"PAVERAMA",
+        "votos":1828
+    },
+    {
+        "municipio":"PEDRAS ALTAS",
+        "votos":2
+    },
+    {
+        "municipio":"PELOTAS",
+        "votos":19
+    },
+    {
+        "municipio":"PICADA CAFÉ",
+        "votos":447
+    },
+    {
+        "municipio":"PINHEIRO MACHADO",
+        "votos":5
+    },
+    {
+        "municipio":"PIRATINI",
+        "votos":1
+    },
+    {
+        "municipio":"POÇO DAS ANTAS",
+        "votos":401
+    },
+    {
+        "municipio":"PONTE PRETA",
+        "votos":5
+    },
+    {
+        "municipio":"PORTÃO",
+        "votos":543
+    },
+    {
+        "municipio":"PORTO ALEGRE",
+        "votos":2316
+    },
+    {
+        "municipio":"PORTO XAVIER",
+        "votos":3
+    },
+    {
+        "municipio":"POUSO NOVO",
+        "votos":7
+    },
+    {
+        "municipio":"PRESIDENTE LUCENA",
+        "votos":9
+    },
+    {
+        "municipio":"PROGRESSO",
+        "votos":149
+    },
+    {
+        "municipio":"PUTINGA",
+        "votos":58
+    },
+    {
+        "municipio":"QUARAÍ",
+        "votos":31
+    },
+    {
+        "municipio":"QUATRO IRMÃOS",
+        "votos":32
+    },
+    {
+        "municipio":"RELVADO",
+        "votos":3
+    },
+    {
+        "municipio":"RESTINGA SÊCA",
+        "votos":1
+    },
+    {
+        "municipio":"RIO GRANDE",
+        "votos":20
+    },
+    {
+        "municipio":"RIO PARDO",
+        "votos":32
+    },
+    {
+        "municipio":"RIOZINHO",
+        "votos":79
+    },
+    {
+        "municipio":"ROCA SALES",
+        "votos":578
+    },
+    {
+        "municipio":"ROLADOR",
+        "votos":1
+    },
+    {
+        "municipio":"ROLANTE",
+        "votos":87
+    },
+    {
+        "municipio":"RONDA ALTA",
+        "votos":6
+    },
+    {
+        "municipio":"RONDINHA",
+        "votos":2
+    },
+    {
+        "municipio":"ROSÁRIO DO SUL",
+        "votos":7
+    },
+    {
+        "municipio":"SALTO DO JACUÍ",
+        "votos":8
+    },
+    {
+        "municipio":"SALVADOR DO SUL",
+        "votos":388
+    },
+    {
+        "municipio":"SANANDUVA",
+        "votos":2
+    },
+    {
+        "municipio":"SANTA CLARA DO SUL",
+        "votos":1591
+    },
+    {
+        "municipio":"SANTA CRUZ DO SUL",
+        "votos":55
+    },
+    {
+        "municipio":"SANTA MARIA",
+        "votos":49
+    },
+    {
+        "municipio":"SANTA MARIA DO HERVAL",
+        "votos":168
+    },
+    {
+        "municipio":"SANTA ROSA",
+        "votos":1
+    },
+    {
+        "municipio":"SANTA TEREZA",
+        "votos":87
+    },
+    {
+        "municipio":"SANTANA DA BOA VISTA",
+        "votos":1
+    },
+    {
+        "municipio":"SANTANA DO LIVRAMENTO",
+        "votos":16
+    },
+    {
+        "municipio":"SANTIAGO",
+        "votos":8
+    },
+    {
+        "municipio":"SANTO ÂNGELO",
+        "votos":2
+    },
+    {
+        "municipio":"SANTO ANTÔNIO DA PATRULHA",
+        "votos":472
+    },
+    {
+        "municipio":"SANTO ANTÔNIO DAS MISSÕES",
+        "votos":7
+    },
+    {
+        "municipio":"SANTO AUGUSTO",
+        "votos":2
+    },
+    {
+        "municipio":"SANTO CRISTO",
+        "votos":1
+    },
+    {
+        "municipio":"SANTO EXPEDITO DO SUL",
+        "votos":13
+    },
+    {
+        "municipio":"SÃO BORJA",
+        "votos":1
+    },
+    {
+        "municipio":"SÃO FRANCISCO DE PAULA",
+        "votos":479
+    },
+    {
+        "municipio":"SÃO GABRIEL",
+        "votos":23
+    },
+    {
+        "municipio":"SÃO JERÔNIMO",
+        "votos":746
+    },
+    {
+        "municipio":"SÃO JOSÉ DO HERVAL",
+        "votos":12
+    },
+    {
+        "municipio":"SÃO JOSÉ DO HORTÊNCIO",
+        "votos":89
+    },
+    {
+        "municipio":"SÃO JOSÉ DO NORTE",
+        "votos":9
+    },
+    {
+        "municipio":"SÃO JOSÉ DO OURO",
+        "votos":9
+    },
+    {
+        "municipio":"SÃO JOSÉ DO SUL",
+        "votos":140
+    },
+    {
+        "municipio":"SÃO JOSÉ DOS AUSENTES",
+        "votos":115
+    },
+    {
+        "municipio":"SÃO LEOPOLDO",
+        "votos":2347
+    },
+    {
+        "municipio":"SÃO LOURENÇO DO SUL",
+        "votos":3
+    },
+    {
+        "municipio":"SÃO LUIZ GONZAGA",
+        "votos":150
+    },
+    {
+        "municipio":"SÃO MARCOS",
+        "votos":6
+    },
+    {
+        "municipio":"SÃO MIGUEL DAS MISSÕES",
+        "votos":3
+    },
+    {
+        "municipio":"SÃO PEDRO DA SERRA",
+        "votos":102
+    },
+    {
+        "municipio":"SÃO PEDRO DO BUTIÁ",
+        "votos":1
+    },
+    {
+        "municipio":"SÃO PEDRO DO SUL",
+        "votos":4
+    },
+    {
+        "municipio":"SÃO SEBASTIÃO DO CAÍ",
+        "votos":623
+    },
+    {
+        "municipio":"SÃO SEPÉ",
+        "votos":7
+    },
+    {
+        "municipio":"SÃO VALENTIM",
+        "votos":3
+    },
+    {
+        "municipio":"SÃO VALENTIM DO SUL",
+        "votos":6
+    },
+    {
+        "municipio":"SÃO VENDELINO",
+        "votos":45
+    },
+    {
+        "municipio":"SÃO VICENTE DO SUL",
+        "votos":6
+    },
+    {
+        "municipio":"SAPIRANGA",
+        "votos":592
+    },
+    {
+        "municipio":"SAPUCAIA DO SUL",
+        "votos":241
+    },
+    {
+        "municipio":"SARANDI",
+        "votos":15
+    },
+    {
+        "municipio":"SEBERI",
+        "votos":5
+    },
+    {
+        "municipio":"SELBACH",
+        "votos":1
+    },
+    {
+        "municipio":"SENTINELA DO SUL",
+        "votos":2
+    },
+    {
+        "municipio":"SERAFINA CORRÊA",
+        "votos":3
+    },
+    {
+        "municipio":"SÉRIO",
+        "votos":191
+    },
+    {
+        "municipio":"SERTÃO",
+        "votos":6
+    },
+    {
+        "municipio":"SERTÃO SANTANA",
+        "votos":4
+    },
+    {
+        "municipio":"SILVEIRA MARTINS",
+        "votos":1
+    },
+    {
+        "municipio":"SINIMBU",
+        "votos":2
+    },
+    {
+        "municipio":"SOBRADINHO",
+        "votos":4
+    },
+    {
+        "municipio":"SOLEDADE",
+        "votos":31
+    },
+    {
+        "municipio":"TABAÍ",
+        "votos":712
+    },
+    {
+        "municipio":"TAPEJARA",
+        "votos":5
+    },
+    {
+        "municipio":"TAPERA",
+        "votos":5
+    },
+    {
+        "municipio":"TAPES",
+        "votos":13
+    },
+    {
+        "municipio":"TAQUARA",
+        "votos":212
+    },
+    {
+        "municipio":"TAQUARI",
+        "votos":4684
+    },
+    {
+        "municipio":"TENENTE PORTELA",
+        "votos":1
+    },
+    {
+        "municipio":"TERRA DE AREIA",
+        "votos":7
+    },
+    {
+        "municipio":"TEUTÔNIA",
+        "votos":3612
+    },
+    {
+        "municipio":"TIRADENTES DO SUL",
+        "votos":1
+    },
+    {
+        "municipio":"TOROPI",
+        "votos":2
+    },
+    {
+        "municipio":"TORRES",
+        "votos":31
+    },
+    {
+        "municipio":"TRAMANDAÍ",
+        "votos":156
+    },
+    {
+        "municipio":"TRAVESSEIRO",
+        "votos":151
+    },
+    {
+        "municipio":"TRÊS ARROIOS",
+        "votos":6
+    },
+    {
+        "municipio":"TRÊS CACHOEIRAS",
+        "votos":8
+    },
+    {
+        "municipio":"TRÊS COROAS",
+        "votos":80
+    },
+    {
+        "municipio":"TRÊS FORQUILHAS",
+        "votos":2
+    },
+    {
+        "municipio":"TRÊS PASSOS",
+        "votos":4
+    },
+    {
+        "municipio":"TRIUNFO",
+        "votos":480
+    },
+    {
+        "municipio":"TUPANCI DO SUL",
+        "votos":18
+    },
+    {
+        "municipio":"TUPANCIRETÃ",
+        "votos":527
+    },
+    {
+        "municipio":"TUPANDI",
+        "votos":142
+    },
+    {
+        "municipio":"URUGUAIANA",
+        "votos":2
+    },
+    {
+        "municipio":"VACARIA",
+        "votos":32
+    },
+    {
+        "municipio":"VALE DO SOL",
+        "votos":1
+    },
+    {
+        "municipio":"VALE REAL",
+        "votos":32
+    },
+    {
+        "municipio":"VALE VERDE",
+        "votos":7
+    },
+    {
+        "municipio":"VANINI",
+        "votos":2
+    },
+    {
+        "municipio":"VENÂNCIO AIRES",
+        "votos":197
+    },
+    {
+        "municipio":"VERA CRUZ",
+        "votos":10
+    },
+    {
+        "municipio":"VERANÓPOLIS",
+        "votos":12
+    },
+    {
+        "municipio":"VESPASIANO CORRÊA",
+        "votos":539
+    },
+    {
+        "municipio":"VIADUTOS",
+        "votos":12
+    },
+    {
+        "municipio":"VIAMÃO",
+        "votos":113
+    },
+    {
+        "municipio":"VICENTE DUTRA",
+        "votos":10
+    },
+    {
+        "municipio":"VILA NOVA DO SUL",
+        "votos":2
+    },
+    {
+        "municipio":"VISTA ALEGRE",
+        "votos":1
+    },
+    {
+        "municipio":"WESTFALIA",
+        "votos":316
+    },
+    {
+        "municipio":"XANGRI-LÁ",
+        "votos":67
+    }
+]

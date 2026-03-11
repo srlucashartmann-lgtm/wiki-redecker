@@ -1,0 +1,7 @@
+# Discurso - Lucas Redecker
+**Data:** 2021-03-31T11:40
+**Evento:** Contestação às argumentações do Deputado Sanderson contra o substitutivo oferecido pelo Relator da Comissão de Minas e Energia ao Projeto de Lei nº 2.474, de 2020, referente à cessão de créditos obtidos em sistema de compensação de energia elétrica, durante a emergência de saúde pública decorrente da epidemia de coronavírus.
+
+---
+O SR. LUCAS REDECKER (Bloco/PSDB - RS. Pela ordem. Sem revisão do orador.) - Presidente, eu vou aproveitar a orientação do PSDB e, com todo o respeito ao Deputado Sanderson, meu colega, conterrâneo e amigo que fala em nome do Governo, deixar claro, sobre esse argumento do esforço regulatório que seria feito, que quem deveria ter dito isso era a ANEEL, a agência reguladora que trata de toda a regulação nacional e da própria questão das diferenças tarifárias. Tanto isso não é verdade que nós temos um parecer da ANEEL, uma resposta a um ofício que nos mandaram em que dão o.k., dizendo que é de fácil implantação e que há uma previsão de 10 dias para a implantação - a ANEEL considera isso viável -, e o Relator amplia para 15 dias. Então, não vejo problema algum nisso. A ANEEL nos deu 100% de confiança, nós temos um parecer, que está na mão do Relator, que deu ao Relator tranquilidade para dar o parecer favorável. A responsabilidade que o Relator teve no relatório foi justamente a de buscar os órgãos regulatórios para saber se há condição de implantação.
+Com todo o respeito, desfaço essa circunstância colocada.

@@ -1,0 +1,6 @@
+# Discurso - Lucas Redecker
+**Data:** 2025-09-24T15:16
+**Evento:** O Deputado registrou a visita dos Vereadores Repolhinho, Fabinho e do Chefe de gabinete Guilherme, de Rio Grande (RS), à Câmara. Além disso, destacou que os Parlamentares levaram demandas importantes do Município e elogiou o trabalho deles, ressaltando a atuação apartidária em prol do desenvolvimento local e afirmando que tem colaborado com recursos para a cidade.
+
+---
+O SR. LUCAS REDECKER (Bloco/PSDB - RS. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Quero registrar aqui a presença dos Vereadores do Município de Rio Grande, no Rio Grande do Sul, Repolhinho, do PSDB; Fabinho, do PSD; e Guilherme, chefe de gabinete, que vieram aqui visitar a Casa, mas, principalmente, trazer as demandas do Município de Rio Grande, aquelas que são importantes para o Município e também as relacionadas aos nossos mandatos. Como Deputado, eu tenho ajudado muito o Município de Rio Grande através desses dois Vereadores e fico feliz de saber que lá no Município nós temos Vereadores atuantes, trabalhadores, que estão preocupados com o desenvolvimento do Município, independentemente de partido, de lado político, mas pensando no Município. Por isso, quero fazer o registro aqui e agradecer a concessão desse 1 minuto. Obrigado.

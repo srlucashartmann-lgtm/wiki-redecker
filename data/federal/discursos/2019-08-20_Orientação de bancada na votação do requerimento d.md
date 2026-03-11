@@ -1,0 +1,9 @@
+# Discurso - Lucas Redecker
+**Data:** 2019-08-20T22:52
+**Evento:** Orientação de bancada na votação do requerimento de destaque para votação em separado do § 1º do art. 1º do Projeto de Lei nº 6.298, de 2016, com vista à sua inserção no Projeto de Lei nº 8.240, de 2017, acerca da inclusão do laço, bem como das respectivas expressões artísticas e esportivas, como manifestação cultural nacional e elevação de tais atividades à condição de bem de natureza imaterial integrante do patrimônio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a proteção ao bem-estar animal.
+
+---
+O SR. LUCAS REDECKER (PSDB - RS. Pela ordem. Sem revisão do orador.) - Sra. Presidente, este destaque que nós estamos votando aqui é um verdadeiro absurdo: o PT está querendo dizer que todos os animais só poderão participar da vaquejada mediante laudo veterinário e acompanhamento deles antes, durante e depois do evento. Isso é a mesma coisa que, numa atividade esportiva, num campeonato de futebol, de basquete, de vôlei, o médico ter que dar um laudo indicando que a pessoa está apta a participar do campeonato antes, durante e depois dele.
+O que o PT quer fazer aqui é acabar com o rodeio, é acabar com a vaquejada, é acabar com a prova equestre. É uma vergonha! Eles fazem o destaque e obstruem o próprio destaque. Depois vão lá para as pontas, para as provas equestres, no Rio Grande do Sul e em todo o Brasil, defender o rodeio, dizer que são favoráveis ao rodeio. Aqui eles vão obstruir e querer acabar com a atividade equestre. Este é um verdadeiro absurdo.
+Que bom que a população acompanha a TV Câmara e as redes sociais. Assim pode ver o que o PT defende de fato. Dizem que defendem os trabalhadores, mas ignoram a quantidade de recursos que giram na economia brasileira em função dos rodeios, dos cavalos, do cuidado dos animais.
+Por isso, o PSDB encaminha "não" e é favorável à manutenção das provas equestres.

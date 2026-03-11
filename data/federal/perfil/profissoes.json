@@ -1,0 +1,16 @@
+{
+  "dados": [
+    {
+      "dataHora": "2023-08-08T12:37",
+      "codTipoProfissao": 887,
+      "titulo": "Profissão não declarada"
+    }
+  ],
+  "_metadados": {
+    "deputado_id": 204404,
+    "deputado_nome": "Lucas Redecker",
+    "legislatura": 57,
+    "data_extracao": "2026-03-03T22:07:28.313281",
+    "fonte": "API Dados Abertos Câmara - dadosabertos.camara.leg.br"
+  }
+}

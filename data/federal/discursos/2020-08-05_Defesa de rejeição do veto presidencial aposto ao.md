@@ -1,0 +1,11 @@
+# Discurso - Lucas Redecker
+**Data:** 2020-08-05T15:44
+**Evento:** Defesa de rejeição do veto presidencial aposto ao dispositivo referente à desoneração da folha de pagamento empresarial, constante na Medida Provisória nº 936, de 2020, sobre a instituição do Programa Emergencial de Manutenção do Emprego e da Renda; e a adoção de medidas complementares de enfrentamento do estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 2020; e da emergência de saúde decorrente do coronavírus, consoante à Lei nº 13.979, de 2020.
+
+---
+O SR. LUCAS REDECKER (PSDB - RS. Pela ordem. Sem revisão do orador.) - Presidente, aproveitando o momento da votação, eu gostaria de registrar ao Plenário da Casa, e o farei também na sessão do Congresso que ocorrerá nos próximos dias, quem sabe na semana que vem, a importância de nós pautarmos a derrubada do veto à manutenção da desoneração da folha de pagamento.
+Este é um tema muito importante, está sendo debatido no Brasil inteiro por todas as entidades que defendem o setor produtivo, a indústria, principalmente em se tratando das perdas que poderemos ter com o fim da desoneração da folha de pagamento.
+A desoneração da folha de pagamento é um instrumento muito importante para várias empresas. Com ela, as empresas já mantinham, mesmo antes da pandemia, e ainda mantêm sua condição de competitividade em relação ao Custo Brasil. Neste momento de pandemia, em que estamos tendo a diminuição da arrecadação das empresas e do setor público, nós precisamos manter os empregos e, principalmente, a economia. Isso se dá com a garantia de não perdermos as indústrias e de industrializarmos o País. Portanto, a desoneração da folha de pagamento se faz muito importante. 
+Este tema tem que mobilizar o Congresso Nacional. Sem dúvida alguma, precisamos derrubar o veto. Estão falando em incluir a desoneração na reforma tributária, coisa que pode demorar muito tempo. Se isso acontecer, nós poderemos perder o prazo da desoneração da folha, e ela poderá não ser incluída na reforma tributária. Com isso, perderemos a competitividade das empresas.
+Portanto, deixo registrado meu posicionamento a favor da derrubada do veto à manutenção da desoneração da folha de pagamento.
+Muito obrigado.

@@ -1,0 +1,12 @@
+# Discurso - Lucas Redecker
+**Data:** 2021-08-05T13:48
+**Evento:** Discussão do Projeto de Lei nº 591, de 2021, sobre o marco regulatório, a organização e manutenção do Sistema Nacional de Serviços Postais (privatização dos correios).
+
+---
+O SR. LUCAS REDECKER (PSDB - RS. Sem revisão do orador.) - Saúdo o Presidente e os colegas Deputados.
+Quero colocar aqui nossa posição favorável à privatização dos Correios e parabenizar o Relator. Muito foi falado aqui em relação ao tema, principalmente em relação ao prejuízo que a população brasileira porventura possa vir a ter com a privatização dos Correios. 
+No Estado do Rio Grande do Sul, há 10 milhões e 600 mil correspondências atrasadas nos Correios. Esse dado está hoje no site clicRBS. Há relatos de tantas pessoas que dizem receber suas contas já com os prazos atrasados, tendo que pagar juros, multa, em razão da ineficiência dos Correios. Essas pessoas têm que arcar com as consequências de uma estrutura pública dos Correios que infelizmente não funciona. 
+É muito bonito vir aqui discursar dizendo que a população brasileira vai perder com a privatização dos Correios. A população brasileira já está perdendo com os Correios! Quantas greves já atrasaram a chegada de correspondências? As pessoas tinham que sair das suas casas, muitas vezes até na pandemia, para ir buscar uma segunda via da correspondência. Outras vezes, tinham que buscar uma conta no banco para pagar pessoalmente, porque não receberam as correspondências em suas casas. E quem é punido por esses atrasos? Os Correios não são punidos. A partir da privatização, a empresa que tiver que oferecer esse serviço terá contemplada no edital a punição. Ela vai ter que arcar com os prejuízos e vai receber multa. Isso vai dar às pessoas condições de receber em dia suas correspondências e de saber que, quando fizerem uma compra a ser entregue em casa, vão receber o produto dentro do prazo.
+Está muito claro no Congresso Nacional que está na hora, sim, de privatizar os Correios, está na hora, sim, de privatizar tantas outras companhias que são ineficientes no Brasil, que trazem prejuízo para a estrutura pública e que não fazem o serviço chegar à ponta, ao cidadão.
+Portanto, eu quero trazer aqui a nossa posição favorável à desestatização dos Correios. Só no Rio Grande do Sul - este dado está no noticiário de hoje -, são 10 milhões e 600 mil as correspondências atrasadas. As pessoas estão esperando. O serviço não está sendo bem prestado. 
+Muito obrigado, Presidente.

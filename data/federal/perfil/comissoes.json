@@ -1,0 +1,77 @@
+{
+  "dados": [
+    {
+      "idOrgao": 539637,
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539637",
+      "siglaOrgao": "CEXCIRS",
+      "nomeOrgao": "Comissão Externa destinada a apurar e acompanhar os danos causados pelas enchentes de 2023 e 2024, que atingiram o estado do Rio Grande do Sul",
+      "nomePublicacao": "Comissão Externa sobre Danos Causados pelas Enchentes no Rio Grande do Sul",
+      "titulo": "Titular",
+      "codTitulo": "101",
+      "dataInicio": "2023-11-28T00:00",
+      "dataFim": null
+    },
+    {
+      "idOrgao": 539635,
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539635",
+      "siglaOrgao": "CEDESNAT",
+      "nomeOrgao": "Comissão Especial destinada a estudar e analisar formas de prevenção e auxílio a desastres e calamidades naturais que vêm assolando o Território Nacional",
+      "nomePublicacao": "Comissão Especial sobre Prevenção e Auxílio a Desastres e Calamidades Naturais",
+      "titulo": "Titular",
+      "codTitulo": "101",
+      "dataInicio": "2024-02-07T00:00",
+      "dataFim": null
+    },
+    {
+      "idOrgao": 539741,
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539741",
+      "siglaOrgao": "PEC23119",
+      "nomeOrgao": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 231, de 2019, que altera o art. 159 da Constituição Federal para disciplinar a distribuição de recursos pela União ao Fundo de Participação dos Municípios",
+      "nomePublicacao": "Comissão Especial sobre o FPM e os Fundos Constitucionais Sul/Sudeste (PEC 231/19)",
+      "titulo": "Suplente",
+      "codTitulo": "102",
+      "dataInicio": "2025-11-03T00:00",
+      "dataFim": null
+    },
+    {
+      "idOrgao": 2018,
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2018",
+      "siglaOrgao": "CREDN",
+      "nomeOrgao": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "nomePublicacao": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "titulo": "Suplente",
+      "codTitulo": "102",
+      "dataInicio": "2026-02-03T00:00",
+      "dataFim": null
+    },
+    {
+      "idOrgao": 2001,
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2001",
+      "siglaOrgao": "CAPADR",
+      "nomeOrgao": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "nomePublicacao": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "titulo": "Suplente",
+      "codTitulo": "102",
+      "dataInicio": "2026-02-03T00:00",
+      "dataFim": null
+    },
+    {
+      "idOrgao": 2003,
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003",
+      "siglaOrgao": "CCJC",
+      "nomeOrgao": "Comissão de Constituição e Justiça e de Cidadania",
+      "nomePublicacao": "Comissão de Constituição e Justiça e de Cidadania",
+      "titulo": "Titular",
+      "codTitulo": "101",
+      "dataInicio": "2026-02-09T00:00",
+      "dataFim": null
+    }
+  ],
+  "_metadados": {
+    "deputado_id": 204404,
+    "deputado_nome": "Lucas Redecker",
+    "legislatura": 57,
+    "data_extracao": "2026-03-03T22:07:22.495965",
+    "fonte": "API Dados Abertos Câmara - dadosabertos.camara.leg.br"
+  }
+}
