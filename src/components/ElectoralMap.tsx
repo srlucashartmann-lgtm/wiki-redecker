@@ -5,19 +5,19 @@ import dynamic from "next/dynamic";
 import { Tooltip } from "react-tooltip";
 
 const ComposableMap = dynamic(
-  () => import("react-simple-maps").then((mod) => mod.ComposableMap),
+  () => import("react-simple-maps").then((mod: any) => mod.ComposableMap),
   { ssr: false }
 );
 const Geographies = dynamic(
-  () => import("react-simple-maps").then((mod) => mod.Geographies),
+  () => import("react-simple-maps").then((mod: any) => mod.Geographies),
   { ssr: false }
 );
 const Geography = dynamic(
-  () => import("react-simple-maps").then((mod) => mod.Geography),
+  () => import("react-simple-maps").then((mod: any) => mod.Geography),
   { ssr: false }
 );
 const ZoomableGroup = dynamic(
-  () => import("react-simple-maps").then((mod) => mod.ZoomableGroup),
+  () => import("react-simple-maps").then((mod: any) => mod.ZoomableGroup),
   { ssr: false }
 );
 
